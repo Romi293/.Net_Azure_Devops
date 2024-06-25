@@ -1,0 +1,15 @@
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/romi/Documents/Devops/Azure_Devops/.Net_Azure_Devops/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
